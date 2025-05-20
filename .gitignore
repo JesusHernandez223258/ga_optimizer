@@ -1,0 +1,43 @@
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de configuración de entorno y editor
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+
+# Archivos de inicialización vacíos, si no deseas subirlos
+**/__init__.py
+
+# Archivos temporales
+*.log
+*.bak
+*.swp
+*~
+
+# Archivos de testing o de ejecución
+codigo_limpio.txt
+
+# Bases de datos temporales u otros binarios
+*.db
+*.sqlite3
+
+# Migraciones, si usas Django o similares
+migrations/
+*/migrations/
+
+# Git
+.git/
+
+# Poetry
+poetry.lock
+# Pipenv
+Pipfile.lock
