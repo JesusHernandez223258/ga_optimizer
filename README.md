@@ -67,3 +67,4 @@ Aplicación de escritorio en Python para configurar, ejecutar y visualizar algor
         └── plotter.py
     ```# ga_optimizer
 # ga_optimizer
+# ga_optimizer
